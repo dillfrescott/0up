@@ -161,7 +161,7 @@
 </script>
 
 <svelte:head>
-  <title>0up - encrypted file sharing</title>
+  <title>Dillshare - encrypted file sharing</title>
 </svelte:head>
 
 <!-- Modals-->

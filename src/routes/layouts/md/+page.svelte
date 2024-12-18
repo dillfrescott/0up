@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let title = '0up';
+  export let title = 'Dillshare';
 </script>
 
 <svelte:head>

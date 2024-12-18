@@ -1,6 +1,6 @@
 ---
 layout: mdLayout
-title: Terms of Service - 0up
+title: Terms of Service - Dillshare
 ---
 
 <script lang=ts>

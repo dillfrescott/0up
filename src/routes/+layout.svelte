@@ -17,19 +17,19 @@
 </script>
 
 <svelte:head>
-  <meta name="description" content="0up is a free, open-source, encrypted file sharing service." />
-  <meta name="application-name" content="0up" />
+  <meta name="description" content="Dillshare is a free, open-source, encrypted file sharing service." />
+  <meta name="application-name" content="Dillshare" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-  <meta property="og:title" content="0up - encrypted file sharing" />
-  <meta property="og:description" content="0up is a free, open-source, encrypted file sharing service." />
+  <meta property="og:title" content="Dillshare - encrypted file sharing" />
+  <meta property="og:description" content="Dillshare is a free, open-source, encrypted file sharing service." />
   <meta property="og:image" content={`${$page.url.protocol}//${$page.url.host}/social-share-home.jpg`} />
-  <meta property="og:site_name" content="0up" />
+  <meta property="og:site_name" content="Dillshare" />
   <meta property="og:type" content="website" />
-  <meta name="twitter:title" content="0up - encrypted file sharing" />
+  <meta name="twitter:title" content="Dillshare - encrypted file sharing" />
   <meta name="twitter:image" content={`${$page.url.protocol}//${$page.url.host}/social-share-home.jpg`} />
-  <meta name="twitter:site" content="0up_App" />
+  <meta name="twitter:site" content="Dillshare_App" />
   <meta name="twitter:card" content="summary_large_image" />
 </svelte:head>
 
@@ -38,7 +38,7 @@
     <div class="flex h-16 justify-between">
       <div class="flex">
         <div class="flex flex-shrink-0 items-center">
-          <div class="font-audiowide text-3xl text-white"><a href="/">0up</a></div>
+          <div class="font-audiowide text-3xl text-white"><a href="/">Dillshare</a></div>
         </div>
       </div>
       <div class="flex items-center">

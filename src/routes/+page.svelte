@@ -207,7 +207,7 @@
 </script>
 
 <svelte:head>
-  <title>0up - encrypted file sharing</title>
+  <title>Dillshare - encrypted file sharing</title>
   {#if showFaq}
     <script async defer src="https://buttons.github.io/buttons.js"></script>
   {/if}
@@ -343,22 +343,22 @@
       <dl class="mt-10 space-y-8 divide-y divide-zinc-400/10">
         <div class="pt-8 lg:grid lg:grid-cols-12 lg:gap-8">
           <dt class="text-base font-semibold leading-7 text-white lg:col-span-5">
-            Can <span class="font-audiowide text-sm">0up</span> admins decrypt the files I upload?
+            Can <span class="font-audiowide text-sm">Dillshare</span> admins decrypt the files I upload?
           </dt>
           <dd class="mt-4 lg:col-span-7 lg:mt-0">
             <p class="text-base leading-7 text-zinc-300">
-              No. The key required for decryption is never sent to <span class="font-audiowide text-sm">0up</span>, meaning we have no ability to decrypt your
+              No. The key required for decryption is never sent to <span class="font-audiowide text-sm">Dillshare</span>, meaning we have no ability to decrypt your
               uploads. Your file's meta data (file name, file type, etc) are also encrypted.
             </p>
           </dd>
         </div>
 
         <div class="pt-8 lg:grid lg:grid-cols-12 lg:gap-8">
-          <dt class="text-base font-semibold leading-7 text-white lg:col-span-5">How does <span class="font-audiowide text-sm">0up</span> work?</dt>
+          <dt class="text-base font-semibold leading-7 text-white lg:col-span-5">How does <span class="font-audiowide text-sm">Dillshare</span> work?</dt>
           <dd class="mt-4 lg:col-span-7 lg:mt-0">
             <p class="text-base leading-7 text-zinc-300">
               Your files are encrypted by your web browser, with a key that is generated on your browser. The key is never sent to <span
-                class="font-audiowide text-sm">0up</span
+                class="font-audiowide text-sm">Dillshare</span
               >, meaning only you and those you share the link with can download the decrypted files.
             </p>
           </dd>
@@ -414,7 +414,7 @@
           <dt class="text-base font-semibold leading-7 text-white lg:col-span-5">Do I have to trust you?</dt>
           <dd class="mt-4 lg:col-span-7 lg:mt-0">
             <p class="text-base leading-7 text-zinc-300">
-              Nope. <a href="https://github.com/0sumcode/0up" class="underline" target="_blank">Clone <span class="font-audiowide text-sm">0up</span></a> and host
+              Nope. <a href="https://github.com/0sumcode/0up" class="underline" target="_blank">Clone <span class="font-audiowide text-sm">Dillshare</span></a> and host
               it on your own infrastructure.
             </p>
           </dd>

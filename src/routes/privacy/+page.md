@@ -1,6 +1,6 @@
 ---
 layout: mdLayout
-title: Privacy Policy - 0up
+title: Privacy Policy - Dillshare
 ---
 
 <script lang=ts>
