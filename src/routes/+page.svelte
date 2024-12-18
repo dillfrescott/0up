@@ -243,7 +243,7 @@
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto sm:text-center">
       <h2 class="text-base font-semibold leading-7 text-blue-500">
-        Free, ephemeral, <a href="https://github.com/0sumcode/0up" target="_blank" class="underline">open-source</a>
+        Free, ephemeral, <a href="https://github.com/dillfrescott/0up" target="_blank" class="underline">open-source</a>
       </h2>
       <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl"><span class="font-audiowide">0</span>-knowledge encrypted file uploads</p>
     </div>
@@ -370,7 +370,7 @@
             <p class="text-base leading-7 text-zinc-300">
               Your keys are passed as an anchor component in the URL (#YOUR_KEY_HERE). The anchor data is not sent as part of the request to the server and
               isn't logged by the server. While that doesn't mean it's impossible for nefarious or bad code to leak the key, we're <a
-                href="https://github.com/0sumcode/0up"
+                href="https://github.com/dillfrescott/0up"
                 class="underline"
                 target="_blank">open source</a> and encourage you to check our work!
             </p>
@@ -382,14 +382,14 @@
           <dd class="mt-4 lg:col-span-7 lg:mt-0">
             <p class="text-base leading-7 text-zinc-300">
               We don't collect or sell user data, we don't include ads, and we don't have a paid plan. So, the short answer is, we don't make money. This is
-              simply a passion project. <a href="https://github.com/0sumcode/0up" class="underline" target="_blank">Starring us on Github</a> and/or
+              simply a passion project. <a href="https://github.com/dillfrescott/0up" class="underline" target="_blank">Starring us on Github</a> and/or
               <a href="https://www.producthunt.com/posts/0up" class="underline" target="_blank">reviewing us on Product Hunt</a> would be much appreciated!
             </p>
             <div class="mt-2 flex space-x-4">
               <div class="flex-none">
                 <a
                   class="github-button"
-                  href="https://github.com/0sumcode/0up"
+                  href="https://github.com/dillfrescott/0up"
                   data-color-scheme="no-preference: light; light: light; dark: dark;"
                   data-icon="octicon-star"
                   data-size="large"
@@ -414,7 +414,7 @@
           <dt class="text-base font-semibold leading-7 text-white lg:col-span-5">Do I have to trust you?</dt>
           <dd class="mt-4 lg:col-span-7 lg:mt-0">
             <p class="text-base leading-7 text-zinc-300">
-              Nope. <a href="https://github.com/0sumcode/0up" class="underline" target="_blank">Clone <span class="font-audiowide text-sm">Dillshare</span></a> and host
+              Nope. <a href="https://github.com/dillfrescott/0up" class="underline" target="_blank">Clone <span class="font-audiowide text-sm">Dillshare</span></a> and host
               it on your own infrastructure.
             </p>
           </dd>
@@ -424,7 +424,7 @@
           <dt class="text-base font-semibold leading-7 text-white lg:col-span-5">What features will be added?</dt>
           <dd class="mt-4 lg:col-span-7 lg:mt-0">
             <p class="text-base leading-7 text-zinc-300">
-              You tell us (and see what's in the works) on <a href="https://github.com/0sumcode/0up" class="underline" target="_blank">Github</a>.
+              You tell us (and see what's in the works) on <a href="https://github.com/dillfrescott/0up" class="underline" target="_blank">Github</a>.
             </p>
           </dd>
         </div>

@@ -28,7 +28,7 @@ Using the S3-compatible provider of your choice, create a new bucket. For our ex
 
 Create a public bucket. Adding encryption is optional, and arguably redundant, but it doesn't hurt.
 
-![image](https://github.com/0sumcode/0up/assets/1061040/7708011c-ac09-405c-a025-ec596fa9c94e)
+![image](https://github.com/dillfrescott/0up/assets/1061040/7708011c-ac09-405c-a025-ec596fa9c94e)
 
 ### Add an expiration policy
 
@@ -36,7 +36,7 @@ We want files to automatically be deleted after 24 hours. To do that, we'll crea
 
 Click on `Lifecycle Settings` and select `Use custom lifecycle rules`
 
-![image](https://github.com/0sumcode/0up/assets/1061040/12443b36-6464-4389-a0be-bb31b57b175a)
+![image](https://github.com/dillfrescott/0up/assets/1061040/12443b36-6464-4389-a0be-bb31b57b175a)
 
 We'll create a prefix of `1/` and apply a 1-day lifecycle policy to it.
 
@@ -61,7 +61,7 @@ Create a PostgreSQL database, making note of the credentials (user, password, ho
 To get started hosting your own instance of 0up, clone (or fork and clone) this repo.
 
 ```bash
-git clone https://github.com/0sumcode/0up.git
+git clone https://github.com/dillfrescott/0up.git
 cd 0up
 npm i
 ```
