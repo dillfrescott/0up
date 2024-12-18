@@ -296,20 +296,6 @@
     </div>
     <div class="mx-auto mt-2 flex max-w-2xl rounded-md">
       <div class="flex-1 text-sm italic leading-6 text-zinc-400">Expires {expiresIn}</div>
-      <div>
-        <button
-          type="button"
-          on:click={() => {
-            showReportConfirm = true;
-          }}
-          class="rounded bg-white/10 px-2 py-1 text-sm font-semibold text-white shadow-sm hover:bg-white/20">Report</button>
-        <button
-          type="button"
-          on:click={() => {
-            showDeleteConfirm = true;
-          }}
-          class="rounded bg-red-600/40 px-2 py-1 text-sm font-semibold text-white shadow-sm hover:bg-red-600/50">Delete</button>
-      </div>
     </div>
   </div>
 {/if}
