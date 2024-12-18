@@ -152,13 +152,11 @@
   };
 
   const confirmDelete = async () => {
-    await fetch(`/api/download/${data.upload.id}`, { method: 'DELETE' });
-    invalidateAll();
+    console.log('Delete action disabled');
   };
-
+  
   const confirmReport = async () => {
-    await fetch(`/api/download/${data.upload.id}`, { method: 'PUT', body: JSON.stringify({ report: reportInput || 'Reported' }) });
-    invalidateAll();
+    console.log('Report action disabled');
   };
 </script>
 
